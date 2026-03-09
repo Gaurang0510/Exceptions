@@ -1,0 +1,36 @@
+# Byte-compiled / optimised
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+.env
+
+# Data artefacts
+data/raw/
+data/processed/
+cache/
+
+# Model artefacts
+models/saved/*.pt
+models/saved/*.pkl
+models/saved/*.joblib
+
+# Logs
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/

@@ -1,0 +1,44 @@
+# ═══════════════════════════════════════════════════════════════════
+# News2TradeAI — Requirements
+# ═══════════════════════════════════════════════════════════════════
+
+# Core ML / Data Science
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+xgboost>=2.0
+scipy>=1.11
+
+# Deep Learning
+torch>=2.0
+transformers>=4.35
+
+# NLP
+nltk>=3.8
+textblob>=0.17
+spacy>=3.7
+
+# Explainability
+shap>=0.43
+
+# Visualisation
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.18
+
+# Financial Data
+yfinance>=0.2.31
+requests>=2.31
+
+# Web Framework
+fastapi>=0.104
+uvicorn>=0.24
+pydantic>=2.5
+
+# Dashboard
+streamlit>=1.29
+
+# Utilities
+python-dotenv>=1.0
+joblib>=1.3
+pyarrow>=14.0
