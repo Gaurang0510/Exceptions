@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+scikit-learn
+transformers
+torch
+vaderSentiment
+requests
+plotly
+joblib
+shap
+newsapi-python
+python-dotenv
+textblob
+beautifulsoup4
+lxml

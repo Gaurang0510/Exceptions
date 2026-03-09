@@ -1,0 +1,131 @@
+title,source,data_source,signal,signal_confidence,sentiment_score,hype_score,is_hype,risk_level,explanation,url
+Bank of America Is Bullish on Tesla Again. Is That a Reason to Buy TSLA Stock?,Yahoo Entertainment,NewsAPI,Hold,0.9752,0.0,0.188,False,Low,"📊 Signal: **Hold** (Confidence: 98%)
+🔍 Method: ML Model
+
+📰 Sentiment: NEUTRAL (score: +0.00)
+✅ Hype check passed (score: 19%)
+
+🛡️ Beginner Safety Mode: ON
+   → Signal meets safety threshold
+
+📈 Probability Breakdown:
+   Hold  ███████████████████░ 97.5%
+   Buy   ░░░░░░░░░░░░░░░░░░░░ 1.3%
+   Sell  ░░░░░░░░░░░░░░░░░░░░ 1.2%",https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0f9d62a3-a471-4248-8528-397f1f4e7418
+"Surprise! America Has Chosen Its Favorite Auto Brand -- and It's Not Ford, General Motors, or Tesla!",Yahoo Entertainment,NewsAPI,Buy,0.8469,0.6892,0.3915,False,Low,"📊 Signal: **Buy** (Confidence: 85%)
+🔍 Method: ML Model
+
+📰 Sentiment: POSITIVE (score: +0.69)
+✅ Hype check passed (score: 39%)
+
+🛡️ Beginner Safety Mode: ON
+   → Signal meets safety threshold
+
+📈 Probability Breakdown:
+   Buy   ████████████████░░░░ 84.7%
+   Sell  █░░░░░░░░░░░░░░░░░░░ 8.5%
+   Hold  █░░░░░░░░░░░░░░░░░░░ 6.9%",https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bad4ea19-f023-4c88-959a-b882f59486d5
+"Bank of America Resumes Coverage on Tesla, Inc. (TSLA), Upgrades to Buy",Yahoo Entertainment,NewsAPI,Hold,0.9895,0.0,0.1763,False,Low,"📊 Signal: **Hold** (Confidence: 99%)
+🔍 Method: ML Model
+
+📰 Sentiment: NEUTRAL (score: +0.00)
+✅ Hype check passed (score: 18%)
+
+🛡️ Beginner Safety Mode: ON
+   → Signal meets safety threshold
+
+📈 Probability Breakdown:
+   Hold  ███████████████████░ 99.0%
+   Sell  ░░░░░░░░░░░░░░░░░░░░ 1.1%
+   Buy   ░░░░░░░░░░░░░░░░░░░░ 0.0%",https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc6c5b81-5a6f-4767-b5cd-5eab1348d37b
+Tesla wins labour dispute at German factory,The Times of India,NewsAPI,Sell,0.8296,-0.8442,0.252,False,Low,"📊 Signal: **Sell** (Confidence: 83%)
+🔍 Method: ML Model
+
+📰 Sentiment: NEGATIVE (score: -0.84)
+✅ Hype check passed (score: 25%)
+
+🛡️ Beginner Safety Mode: ON
+   → Signal meets safety threshold
+
+📈 Probability Breakdown:
+   Sell  ████████████████░░░░ 83.0%
+   Hold  █░░░░░░░░░░░░░░░░░░░ 9.3%
+   Buy   █░░░░░░░░░░░░░░░░░░░ 7.8%",https://timesofindia.indiatimes.com/auto/cars/tesla-wins-labour-dispute-at-german-factory/articleshow/129200674.cms
+Austin 6th Street shooting: Woman sues Tesla claiming suspect violently attacked her at work months before,Yahoo Entertainment,NewsAPI,Sell,0.9127,-0.8402,0.4059,False,Medium,"📊 Signal: **Sell** (Confidence: 91%)
+🔍 Method: ML Model
+
+📰 Sentiment: NEGATIVE (score: -0.84)
+✅ Hype check passed (score: 41%)
+
+🛡️ Beginner Safety Mode: ON
+   → Signal meets safety threshold
+
+📈 Probability Breakdown:
+   Sell  ██████████████████░░ 91.3%
+   Buy   █░░░░░░░░░░░░░░░░░░░ 5.1%
+   Hold  ░░░░░░░░░░░░░░░░░░░░ 3.7%",https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8f8debba-4474-4def-b4b2-3763ea6f4cbe
+Investigation Underway After Two Tesla Cybertrucks Are Incinerated In California Parking Garage,BroBible,NewsAPI,Hold,0.7104,-0.7906,0.3474,False,Low,"📊 Signal: **Hold** (Confidence: 71%)
+🔍 Method: ML Model
+
+📰 Sentiment: NEGATIVE (score: -0.79)
+✅ Hype check passed (score: 35%)
+
+🛡️ Beginner Safety Mode: ON
+   → Signal changed to HOLD (confidence below safety threshold)
+
+📈 Probability Breakdown:
+   Sell  ██████████████░░░░░░ 71.0%
+   Hold  ███░░░░░░░░░░░░░░░░░ 18.4%
+   Buy   ██░░░░░░░░░░░░░░░░░░ 10.6%",https://brobible.com/sports/article/tesla-cybertrucks-burned-california-parking-garage/
+Tesla Clears Model 3 Inventory in Canada Ahead of the Arrival of Chinese EVs: Report,Gizmodo.com,NewsAPI,Hold,0.9711,0.0258,0.1651,False,Low,"📊 Signal: **Hold** (Confidence: 97%)
+🔍 Method: ML Model
+
+📰 Sentiment: NEUTRAL (score: +0.03)
+✅ Hype check passed (score: 17%)
+
+🛡️ Beginner Safety Mode: ON
+   → Signal meets safety threshold
+
+📈 Probability Breakdown:
+   Hold  ███████████████████░ 97.1%
+   Sell  ░░░░░░░░░░░░░░░░░░░░ 1.7%
+   Buy   ░░░░░░░░░░░░░░░░░░░░ 1.2%",https://gizmodo.com/tesla-clears-model-3-inventory-in-canada-ahead-of-the-arrival-of-chinese-evs-report-2000730792
+Tesla Full Self-Driving v14.2.2.5 might be the most confusing release ever - Teslarati,Teslarati (RSS),Google News RSS,Hold,0.9309,-0.2944,0.2799,False,Low,"📊 Signal: **Hold** (Confidence: 93%)
+🔍 Method: ML Model
+
+📰 Sentiment: NEGATIVE (score: -0.29)
+✅ Hype check passed (score: 28%)
+
+🛡️ Beginner Safety Mode: ON
+   → Signal meets safety threshold
+
+📈 Probability Breakdown:
+   Hold  ██████████████████░░ 93.1%
+   Sell  ░░░░░░░░░░░░░░░░░░░░ 4.9%
+   Buy   ░░░░░░░░░░░░░░░░░░░░ 2.1%",https://news.google.com/rss/articles/CBMingFBVV95cUxPZWd6YXR5TFRRaHpnU201ak1FMmlVb0RydFFGeWNfVXNfVGluX2Q1bVZPS242WGhVUmpfQjJ0d1BzOXVTcFNNUm94QUdQc1VZZEZPd2ptS3VWczA5SjM5UzVaUDgyWGJhTzVwcWdGd2wyZkE2eTYtTEJ0YVlybTJvcFNrd1Q1NmQxMnJrMXE2WXczVk5jNlR1cmFaSVNlQQ?oc=5
+Tesla Cybertruck Orders Skyrocket After Deep Price Cuts - EVChargingStations.com,EVChargingStations.com (RSS),Google News RSS,Hold,0.904,-0.296,0.4067,False,Medium,"📊 Signal: **Hold** (Confidence: 90%)
+🔍 Method: ML Model
+
+📰 Sentiment: NEGATIVE (score: -0.30)
+✅ Hype check passed (score: 41%)
+
+🛡️ Beginner Safety Mode: ON
+   → Signal meets safety threshold
+
+📈 Probability Breakdown:
+   Hold  ██████████████████░░ 90.4%
+   Sell  █░░░░░░░░░░░░░░░░░░░ 6.0%
+   Buy   ░░░░░░░░░░░░░░░░░░░░ 3.6%",https://news.google.com/rss/articles/CBMie0FVX3lxTE5jb040VXMxNFRvQURjemxGNkZSTGEtUkFYWUxuWWc2ellZUUtKaUtyZmRPMTVCdlRGWmVBTUVwdXZSSUdFSG1lYWM3b3NMcU5OR0p3aGJveG9KZEpMMWVnZUdwVkN5dVF1LXR1Y0pQekVTTVF1VjlUbFdtUQ?oc=5
+"Bank of America upgrades Tesla, calls it the clear leader in autonomous driving - CNBC",CNBC (RSS),Google News RSS,Hold,0.7805,0.3818,0.2981,False,Low,"📊 Signal: **Hold** (Confidence: 78%)
+🔍 Method: ML Model
+
+📰 Sentiment: POSITIVE (score: +0.38)
+✅ Hype check passed (score: 30%)
+
+🛡️ Beginner Safety Mode: ON
+   → Signal meets safety threshold
+
+📈 Probability Breakdown:
+   Hold  ███████████████░░░░░ 78.0%
+   Buy   ███░░░░░░░░░░░░░░░░░ 18.3%
+   Sell  ░░░░░░░░░░░░░░░░░░░░ 3.6%",https://news.google.com/rss/articles/CBMitgFBVV95cUxPdUszUnhrMElYbTNraHVuQWFQN1M4N2NQMHFzbFJkYi1OVk04cWR1cFRheXpGWHJ4eTdrVkpJYXhnTFc3OE1NWmxnUXBvUXlQRXFYa1lfcGlKcWhWdWJnejZZRGV3Znl3UWlqVnFJSzgwc0llbVNySFZ5My1HZ0prOXZPbEZIcDBUT04yMHJPVWNpSDBjc2FqVFVjWnJKaXNfUmZuRHA5bXZRWV9IeGFkMl90UTBfdw?oc=5
